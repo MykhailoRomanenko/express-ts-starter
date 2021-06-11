@@ -1,6 +1,6 @@
 # express-ts-starter
 
-!!!USE ON YOUR OWN RISK!!!
+!!!USE AT YOUR OWN RISK!!!
 
 This is a basic TypeScript and Express.js setup with Nodemon and TSlint ready to use. 
 
